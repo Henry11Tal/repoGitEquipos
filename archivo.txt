@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Metele texto que te apetezca, modificado para que funcione el primer conflicto
+=======
+Metele texto que te apetezca 
+
+vale muy buenas
+>>>>>>> 10c991d95c0db16c4faa41bf5aafa3018684d979

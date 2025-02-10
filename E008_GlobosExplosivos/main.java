@@ -34,5 +34,7 @@ public class main {
             if (globos[i].getCapacidadMaxima() < globos[i].getCantidadAire()) System.out.println(globos[i].globosInflados());
             else System.out.println(globos[i].globosVacios());
         }
+
+        System.out.println("Modificacion hecha por iker");
     }
 }

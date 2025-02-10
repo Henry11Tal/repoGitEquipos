@@ -26,6 +26,8 @@ public class main {
             System.out.println("Puntuacion Jugador 2: " + globos[i].getContadorJugador2());
         }
 
+        System.out.println("Ibra modificando..");
+
         globoBasico.mostrarGanadorFinal();
 
         for (int i = 0; i < globos.length; i++) {

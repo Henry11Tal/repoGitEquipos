@@ -32,5 +32,8 @@ public class main {
             if (globos[i].getCapacidadMaxima() < globos[i].getCantidadAire()) System.out.println(globos[i].globosInflados());
             else System.out.println(globos[i].globosVacios());
         }
+		
+		// Linea modificada por Henry.
+		System.out.println("Modificado por Henry.");
     }
 }

@@ -1,3 +1,7 @@
 "Hola muy buenas que soy iker" 
+<<<<<<< HEAD
 
 Estou mobiubvionipgnrknbkf
+=======
+"Ahora yo soy ibrahimm"
+>>>>>>> 4bf974eed1bca4fa881f8bfa5e386cf8a595f8a8
